@@ -1,0 +1,52 @@
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-right: 14px;
+}
+.pg{
+    font-weight: bold;
+    color: blue;
+}
+.tweet{
+    border-radius: 12px;
+    border: none;
+    font-size: 24px;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    box-shadow: 10px 10px 10px gray;
+}
+.tweet:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 5s;
+}
+.join{
+    font-size: 24px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border-color: blueviolet;
+    border: none;
+    box-shadow: 10px 10px 10px black;
+}
+.join:hover{
+    background-color: blue;
+    color:white;
+    transition: 5s;
+}
+.YouTube{
+    font-size: 24px;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    padding: 6px;
+    border-radius: 4px;
+}
+.YouTube:hover{
+    background-color: red;
+    color: white;
+    cursor:pointer;
+}
